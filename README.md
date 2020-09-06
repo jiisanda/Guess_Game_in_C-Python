@@ -30,14 +30,34 @@ Congratulations, You guessed it
 
 # Sample Output in Python
 Number guessing game
+
 I have chosen a no. between 0 to 20, which you must guess.
+
 Enter the guess: 5
+
+
 Your guess was too low. Guess a number higher than 5
+
+
 Enter the guess: 10
+
+
 Your guess was too low. Guess a number higher than 10
+
+
 Enter the guess: 15
+
+
 Your guess was too high. Guess a number lower than 15
+
+
 Enter the guess: 12
+
+
 Your guess was too low. Guess a number higher than 12
+
+
 Enter the guess: 14
+
+
 Congratulations, You guessed it
