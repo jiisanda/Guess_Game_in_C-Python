@@ -1,6 +1,6 @@
 # Guess_Game_in_C-Python
 
-In this Challenge, you are going to create a “Guess the Number” C Program.
+In this Challenge, you are going to create a “Guess the Number” C and Python Program.
 Your program will generate a random number from 0 to 20.
 You will then ask the user to guess it.
 User should only be able to enter numbers form 0 – 20. 
